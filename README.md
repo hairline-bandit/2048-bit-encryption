@@ -2,4 +2,4 @@
 
 I was bored
 
-You can change the number of round by changing the variable at the top
+You can change the number of roundsby changing the NUM_ROUNDS variable at the top
